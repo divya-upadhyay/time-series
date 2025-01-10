@@ -1,6 +1,6 @@
 # Time Series Analysis Portfolio
 
-A comprehensive repository demonstrating advanced time series analysis techniques, from classical statistical methods to modern deep learning approaches.
+This repository contains demonstrations of advanced time series analysis techniques, from classical statistical methods to modern deep learning approaches using interesting open-source datasets.
 
 ## Repository Structure
 
